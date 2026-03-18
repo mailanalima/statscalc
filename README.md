@@ -16,3 +16,5 @@ Um projeto simples para calcular métricas de dados usando Python, Pandas e Tkin
 ## Como rodar
 1. Instale as dependências: `pip install -r requirements.txt`
 2. Execute o script: `python analisador.py`
+
+![Demonstração do Projeto](./images/statscalc.png)
