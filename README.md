@@ -1,20 +1,23 @@
-# Calculadora Estatística com Python
+# Statistical Calculator with Python
 
-Um projeto simples para calcular métricas de dados usando Python, Pandas e Tkinter.
+A simple project to calculate data metrics using Python, Pandas, and Tkinter.
 
-## Funcionalidades
-- Cálculo de Média, Mediana e Desvio Padrão
-- Interface gráfica intuitiva
-- Tratamento de erros para entradas inválidas
+## Features
 
-## Tecnologias
-- Python 3
-- Pandas
-- Numpy
-- Tkinter
+- Calculation of Mean, Median, and Standard Deviation  
+- Intuitive graphical interface  
+- Error handling for invalid inputs  
 
-## Como rodar
-1. Instale as dependências: `pip install -r requirements.txt`
-2. Execute o script: `python analisador.py`
+## Technologies
+
+- Python
+- Pandas  
+- NumPy  
+- Tkinter  
+
+## How to run
+
+1. Install the dependencies: pip install -r requirements.txt
+2. Run the script: python analisador.py
 
 ![Demonstração do Projeto](./images/statscalc.png)
